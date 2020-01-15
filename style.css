@@ -1,0 +1,149 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(images/background4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#rowabt {
+  background: #b92b27; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #1565c0,
+    #b92b27
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #1565c0,
+    #b92b27
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#about {
+  background: #b92b27; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #1565c0,
+    #b92b27
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #1565c0,
+    #b92b27
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#navbarSupportedContent .nav-link:hover {
+  color: rgba(157, 245, 16, 0.877);
+}
+
+#navbarSupportedContent {
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-bottom: 1px solid rgba(116, 114, 114, 0.767);
+}
+
+#navbrand {
+  color: rgba(157, 245, 16, 0.877);
+}
+
+#myPic {
+  height: 700px;
+  width: 510px;
+}
+
+#cvDisplay {
+  color: rgb(255, 255, 255);
+  margin-left: 129px;
+  margin-top: 170px;
+  border-left: 1px solid white;
+  height: 350px;
+  text-shadow: 1px 2px 2px black;
+}
+
+#html {
+  background-color: rgb(123, 226, 19);
+  color: black;
+  font-weight: 900;
+}
+
+#css {
+  background-color: rgb(123, 226, 19);
+  color: black;
+  font-weight: 900;
+}
+
+#bootstrap {
+  background-color: rgb(112, 189, 36);
+  color: black;
+  font-weight: 900;
+}
+
+#javascript {
+  background-color: rgb(90, 151, 29);
+  color: black;
+  font-weight: 900;
+}
+
+#jQuery {
+  background-color: rgb(155, 182, 35);
+  color: black;
+  font-weight: 900;
+}
+
+#nodejs {
+  background-color: rgb(180, 182, 35);
+  color: black;
+  font-weight: 900;
+}
+
+#mysql {
+  background-color: rgb(90, 151, 29);
+  color: black;
+  font-weight: 900;
+}
+
+.btn {
+  border-radius: 25px;
+}
+
+hr.hr {
+  border-top: 1px solid white;
+}
+
+hr.hr1 {
+  border-top: 1px solid black;
+}
+
+.myLinks {
+  margin-left: 20px;
+}
+
+p {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+li {
+  font-size: 20px;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.397);
+  color: white;
+}
